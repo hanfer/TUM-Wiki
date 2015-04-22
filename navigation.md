@@ -19,7 +19,9 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[EIGE](pages/EIGE.md)
+[GED](pages/GED.md)
+[GAD](pages/GAD.md)
+[EIST](pages/EIST.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
