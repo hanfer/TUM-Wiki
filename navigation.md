@@ -22,6 +22,7 @@
 [GED](pages/GED.md)
 [GAD](pages/GAD.md)
 [EIST](pages/EIST.md)
+[LinAlg](pages/LinAlg.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
